@@ -59,7 +59,7 @@
 <p align="center">
   <a href="https://github.com/shaguftapathan">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaguftapathan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=shaguftapathan&layout=compact&exclude_lang=java+r&theme=vue-dark" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=shaguftapathan&layout=compact&exclude_lang=java+r&theme=dracula" alt="Top Languages" />
   </a>
 </p>
 
