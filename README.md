@@ -51,14 +51,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/shaguftapathan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaguftapathan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaguftapathan&layout=compact&theme=radical" />
-  </a>
+<a href="https://github.com/shaguftapathan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaguftapathan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaguftapathan&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaguftapathan&theme=radical" alt="GitHub Streak" />
-</p>
-
 
