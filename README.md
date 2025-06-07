@@ -52,17 +52,15 @@
 </p>
 
 
-<!-- GitHub Profile Stats -->
-#⚙️ &nbsp;GitHub Analytics
 
 <!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=shaguftapathan&show_icons=true&locale=en&layout=compact&exclude_lang=java+r&theme=vue-dark" alt="Top Languages" />
-</p>
+### ⚙️ &nbsp;GitHub Analytics
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaguftapathan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/shaguftapathan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaguftapathan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=shaguftapathan&layout=compact&exclude_lang=java+r&theme=vue-dark" alt="Top Languages" />
+  </a>
 </p>
 
 <!-- GitHub Streak Stats -->
