@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://shaguftapathan.github.io/Portfolio_Website/Shagufta_Pathan_CV_Data_Analyst.pdf](https://shaguftapathan.github.io/Portfolio_Website/Shagufta_Pathan_CV_Data_Analyst.pdf)
 
-- ⚡ Fun fact **I’m trilingual—fluent in Geek, Data, and Storytelling**
+- ⚡ Fun fact **I’m trilingual-fluent in Geek, Data, and Storytelling!**
 
 
 # 💻 Languages and Tools
