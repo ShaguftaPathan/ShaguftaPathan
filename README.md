@@ -33,8 +33,17 @@
 
 
 <h3 align="left">Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shagufta-pathan-sp48/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shagufta.pathan048@gmail.com)
+<p align="left">
+  <!-- LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/shagufta-pathan-sp48/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+
+  <!-- Gmail Icon -->
+  <a href="mailto:shagufta.pathan048@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" width="30" />
+  </a>
+</p>
 
 
 
