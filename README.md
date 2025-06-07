@@ -39,7 +39,7 @@
 
 # 🤝 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://shaguftapathan.github.io/Portfolio_Website/">
     <img src="https://img.shields.io/badge/-Portfolio-brightgreen" />
   </a>
@@ -53,7 +53,7 @@
 
 
 <!-- GitHub Profile Stats -->
-### ⚙️ &nbsp;GitHub Analytics
+#⚙️ &nbsp;GitHub Analytics
 
 <!-- Top Languages -->
 <p align="center">
