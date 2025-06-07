@@ -39,11 +39,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Shagufta Pathan" height="30" width="40" />
   </a>
 
-  <!-- Gmail -->
-  <a href="mailto:shaguftapathan@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail - shagufta.pathan048@gmail.com" height="30" width="40" />
+  <!-- Gmail (using SimpleIcons Mail icon) -->
+  <a href="mailto:shagufta.pathan048@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail - shagufta.pathan048@gmail.com" height="30" width="40" />
   </a>
 </p>
+
+
 <!-- GitHub Profile Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaguftapathan&theme=radical&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="GitHub Stats" />
