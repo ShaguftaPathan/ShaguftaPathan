@@ -19,7 +19,7 @@
 
   <p>🎓 Take a look at my <a href="https://shaguftapathan.github.io/Certifications/" style="color: #b58900;" target="_blank">Certificates</a></p>
 
-  <p>⚡ Fun fact: <strong>I’m trilingual—fluent in Geek, Data, and Storytelling!</strong></p>
+  <p>⚡ Fun fact: <strong>I’m trilingual-fluent in Geek, Data, and Storytelling!</strong></p>
 
 </div>
 
