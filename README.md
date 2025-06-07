@@ -17,7 +17,7 @@
 
   <p>📄 View my <a href="https://shaguftapathan.github.io/Portfolio_Website/Shagufta_Pathan_CV_Data_Analyst.pdf" style="color: #b58900;" target="_blank">Resume</a></p>
 
-  <p>🎓 Take a look at my <a href="https://shaguftapathan.github.io/Certifications/" style="color: #b58900;" target="_blank">certificates</a></p>
+  <p>🎓 Take a look at my <a href="https://shaguftapathan.github.io/Certifications/" style="color: #b58900;" target="_blank">Certificates</a></p>
 
   <p>⚡ Fun fact: <strong>I’m trilingual—fluent in Geek, Data, and Storytelling!</strong></p>
 
