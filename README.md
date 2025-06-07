@@ -5,17 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaguftapathan&label=Profile%20views&color=0e75b6&style=flat" alt="shaguftapathan" /> </p>
 
-- 🌱 I’m currently learning **PMP by PMI, Google Advanced Data Analytics**
+<div style="line-height: 1.8; font-size: 1rem;">
 
-- 👨‍💻 All of my projects are available at [https://shaguftapathan.github.io/Data_Analytics_All_Projects/](https://shaguftapathan.github.io/Data_Analytics_All_Projects/)
+  <p>🌱 I’m currently learning <strong>PMP by PMI, Google Advanced Data Analytics</strong></p>
 
-- 📝 Find me here [https://shaguftapathan.github.io/Portfolio_Website/](https://shaguftapathan.github.io/Portfolio_Website/)
+  <p>👨‍💻 All of my projects are available <a href="https://shaguftapathan.github.io/Data_Analytics_All_Projects/" style="color: #b58900;" target="_blank">here</a></p>
 
-- 📫 How to reach me **shagufta.pathan048@gmail.com**
+  <p>📝 Check out my <a href="https://shaguftapathan.github.io/Portfolio_Website/" style="color: #b58900;" target="_blank">Portfolio Website</a></p>
 
-- 📄 Know about my experiences [https://shaguftapathan.github.io/Portfolio_Website/Shagufta_Pathan_CV_Data_Analyst.pdf](https://shaguftapathan.github.io/Portfolio_Website/Shagufta_Pathan_CV_Data_Analyst.pdf)
+  <p>📫 How to reach me: <strong>shagufta.pathan048@gmail.com</strong></p>
 
-- ⚡ Fun fact **I’m trilingual-fluent in Geek, Data, and Storytelling!**
+  <p>📄 View my <a href="https://shaguftapathan.github.io/Portfolio_Website/Shagufta_Pathan_CV_Data_Analyst.pdf" style="color: #b58900;" target="_blank">Resume</a></p>
+
+  <p>🎓 Take a look at my <a href="https://shaguftapathan.github.io/Certifications/" style="color: #b58900;" target="_blank">certificates</a></p>
+
+  <p>⚡ Fun fact: <strong>I’m trilingual—fluent in Geek, Data, and Storytelling!</strong></p>
+
+</div>
 
 
 # 💻 Languages and Tools
