@@ -32,18 +32,12 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- LinkedIn Icon -->
-  <a href="https://www.linkedin.com/in/shagufta-pathan-sp48/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+<h3 align="left">
+  Connect with me:
+  <a href="https://www.linkedin.com/in/shagufta-pathan-sp48/" target="_blank" style="margin-left: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="25" width="25" />
   </a>
-
-  <!-- Gmail Icon -->
-  <a href="mailto:shagufta.pathan048@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" width="30" />
-  </a>
-</p>
+</h3>
 
 
 
