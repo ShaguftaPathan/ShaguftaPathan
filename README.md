@@ -37,23 +37,35 @@
 
 
 
+# 🤝 &nbsp;Connect with Me
 
-<h3 align="left">
-  Connect with me:
-  <a href="https://www.linkedin.com/in/shagufta-pathan-sp48/" target="_blank" style="margin-left: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="25" width="25" />
+<p align="center">
+  <a href="https://shaguftapathan.github.io/Portfolio_Website/">
+    <img src="https://img.shields.io/badge/-Portfolio-brightgreen" />
   </a>
-</h3>
-
+  <a href="https://www.linkedin.com/in/shagufta-pathan-sp48/">
+    <img src="https://img.shields.io/badge/-Shagufta%20Pathan-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shagufta.pathan048@gmail.com">
+    <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+</p>
 
 
 <!-- GitHub Profile Stats -->
 ### ⚙️ &nbsp;GitHub Analytics
 
+<!-- Top Languages -->
 <p align="center">
-<a href="https://github.com/shaguftapathan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaguftapathan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaguftapathan&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=shaguftapathan&show_icons=true&locale=en&layout=compact&exclude_lang=java+r&theme=vue-dark" alt="Top Languages" />
 </p>
 
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaguftapathan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaguftapathan&theme=dracula" alt="GitHub Streak" />
+</p>
