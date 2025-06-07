@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Shagufta!
+# 🫡 Hi, I'm Shagufta!
 👩🏻‍💻 A passionate Data Analyst with 5+ Years experience!<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaguftapathan&label=Profile%20views&color=0e75b6&style=flat" alt="shaguftapathan" /> </p>
