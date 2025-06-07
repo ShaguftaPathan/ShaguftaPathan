@@ -13,7 +13,7 @@
 
   <p>📝 Check out my <a href="https://shaguftapathan.github.io/Portfolio_Website/" style="color: #b58900;" target="_blank">Portfolio Website</a></p>
 
-  <p>📫 How to reach me: <strong>shagufta.pathan048@gmail.com</strong></p>
+  <p>📫 How to reach me: <a href="mailto:shagufta.pathan048@gmail.com"> <a><strong>Gmail</strong></p>
 
   <p>📄 View my <a href="https://shaguftapathan.github.io/Portfolio_Website/Shagufta_Pathan_CV_Data_Analyst.pdf" style="color: #b58900;" target="_blank">Resume</a></p>
 
