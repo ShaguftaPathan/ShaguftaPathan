@@ -33,17 +33,9 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/shagufta-pathan-sp48/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Shagufta Pathan" height="30" width="40" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shagufta-pathan-sp48/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shagufta.pathan048@gmail.com)
 
-  <!-- Gmail (using SimpleIcons Mail icon) -->
-  <a href="mailto:shagufta.pathan048@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail - shagufta.pathan048@gmail.com" height="30" width="40" />
-  </a>
-</p>
 
 
 <!-- GitHub Profile Stats -->
